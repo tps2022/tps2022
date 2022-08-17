@@ -4,4 +4,4 @@ Right now, I'm continuing to learn Javascript, Express.js, and React.js.
 
 Take a look at my projects.
 
-My goal is to work in development environment at a company where I can continue learning.
+My goal is to work in a development environment at a company where I can continue learning.
