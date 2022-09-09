@@ -1,7 +1,9 @@
-### Hey there, I'm Tamara 🦦
-In my spare time, I'm learning web development.   
-Right now, I'm continuing to learn Javascript, Express.js, and React.js.
+### Hey there. 🦦
+During Spring 2022, I was a student in the Per Scholas Software Engineering bootcamp.
 
-Take a look at my projects.
+During the day, I work in technical project management and technical writing.  
 
-My goal is to work in a development environment at a company where I can continue learning.
+In my spare time, I'm learning web development.    
+Right now, I'm continuing to strengthen my understanding of the MERN stack.
+
+This is an archive of my Per Scholas projects. You can see my current work [here](https://# "Professional Portfolio").
